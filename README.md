@@ -19,6 +19,7 @@ br />
 - <b>.Net framework</b> 
 - <b>C# Language</b>
 - <b>ADO.net</b>
+- <b>SQL Server for data management</b>
 - <b>Windows Forms</b>
 
 
