@@ -1,0 +1,12 @@
+C:\Users\96278.DESKTOP-URQBK3R\Desktop\كورس19\DVLD DataAccess Layar\bin\Debug\DVLD DataAccess Layar.dll
+C:\Users\96278.DESKTOP-URQBK3R\Desktop\كورس19\DVLD DataAccess Layar\bin\Debug\DVLD DataAccess Layar.pdb
+C:\Users\96278.DESKTOP-URQBK3R\Desktop\كورس19\DVLD DataAccess Layar\obj\Debug\DVLD DataAccess Layar.csproj.AssemblyReference.cache
+C:\Users\96278.DESKTOP-URQBK3R\Desktop\كورس19\DVLD DataAccess Layar\obj\Debug\DVLD DataAccess Layar.csproj.CoreCompileInputs.cache
+C:\Users\96278.DESKTOP-URQBK3R\Desktop\كورس19\DVLD DataAccess Layar\obj\Debug\DVLD DataAccess Layar.dll
+C:\Users\96278.DESKTOP-URQBK3R\Desktop\كورس19\DVLD DataAccess Layar\obj\Debug\DVLD DataAccess Layar.pdb
+C:\Data\Programming\كورس19\DVLD DataAccess Layar\bin\Debug\DVLD DataAccess Layar.dll
+C:\Data\Programming\كورس19\DVLD DataAccess Layar\bin\Debug\DVLD DataAccess Layar.pdb
+C:\Data\Programming\كورس19\DVLD DataAccess Layar\obj\Debug\DVLD DataAccess Layar.csproj.AssemblyReference.cache
+C:\Data\Programming\كورس19\DVLD DataAccess Layar\obj\Debug\DVLD DataAccess Layar.csproj.CoreCompileInputs.cache
+C:\Data\Programming\كورس19\DVLD DataAccess Layar\obj\Debug\DVLD DataAccess Layar.dll
+C:\Data\Programming\كورس19\DVLD DataAccess Layar\obj\Debug\DVLD DataAccess Layar.pdb
